@@ -1,1 +1,1 @@
-# configuraciones
+# configuraciones.jl
